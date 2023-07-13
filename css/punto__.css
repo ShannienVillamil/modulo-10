@@ -1,0 +1,28 @@
+body{
+    background: url('../img/fondo2.jpg');
+    background-size: cover;
+   
+    
+}
+.main-frame-cal{
+    width: 40%;
+    padding: 60px;
+    height: 400px;
+    border-radius: 60px;
+    background-color: rgba(235, 249, 145, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(126, 31, 31, 0.775);
+    margin: 7% auto;
+}
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+  
+}
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
